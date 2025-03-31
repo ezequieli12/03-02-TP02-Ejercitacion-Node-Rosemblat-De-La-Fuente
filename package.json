@@ -1,0 +1,20 @@
+{
+  "name": "ejercitacion-node",
+  "version": "1.0.0",
+  "description": "Ejercitacion Node",
+  "homepage": "https://github.com/ezequieli12/03-02-TP02-Ejercitacion-Node-Rosemblat-De-La-Fuente#readme",
+  "bugs": {
+    "url": "https://github.com/ezequieli12/03-02-TP02-Ejercitacion-Node-Rosemblat-De-La-Fuente/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequieli12/03-02-TP02-Ejercitacion-Node-Rosemblat-De-La-Fuente.git"
+  },
+  "license": "ISC",
+  "author": "Ezequiel Rosemblat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
